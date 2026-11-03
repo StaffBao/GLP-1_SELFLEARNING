@@ -1,5 +1,13 @@
 # GLP-1：个人自学笔记 / Personal Study Notes
 
+## 在线阅读 / Read Online
+
+**[点击直接阅读 HTML 笔记 / Open the interactive notes](https://staffbao.github.io/GLP-1_SELFLEARNING/)**
+
+无需下载，打开链接即可浏览正文、图表与交互说明。仓库首页显示项目介绍，以上链接进入实际网站。
+
+No download is required. The link opens the full notes, diagrams, and interactive explanations. The repository homepage shows the project description; the link above opens the website.
+
 这是我在自学 GLP-1 及相关减重药物过程中整理的一份交互式 HTML 笔记。我希望把分散在论文、药品说明书、监管文件和企业披露中的信息串联起来，帮助自己理解：药物如何起效、试验到底证明了什么，以及结论有哪些边界。
 
 These interactive HTML notes document my personal study of GLP-1 and related weight-loss therapies. They bring together information from research papers, prescribing information, regulatory documents, and company disclosures to help me understand how these treatments work, what clinical trials actually demonstrate, and where the evidence has limits.
